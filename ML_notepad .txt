@@ -1,0 +1,169 @@
+AI: 
+	Robotics
+	Conversational AI: voice assistants Alexa, Siri, Google Assistant, etc.
+			Chat bots
+	Gen AI:
+
+Weak AI
+Strong AI
+	
+AI :
+	Machine Learning
+	NLP: Natural Language Processing : translate, text to speech, speech to text
+sentiment analysis
+	CV: Computer Vision
+
+
+Machine Learning
+	- Traditional Approach/Classical ML  : statistical 
+	- Deep Learning  : Neural Networks
+
+Data Science
+Artificial Intelligence
+Deep Learning
+ ANN, CNN, RNN, Transformers, LLMs, GANs 
+
+
+Big Data
+	Big Data Engineering
+
+
+1024 TB: 1PB
+
+Vs
+
+
+
+LLM
+NLP
+Data Analytics
+Data Visualization
+
+kid   untrained machine
+wild animals
+zoo:  Data warehouse
+3 types of animals  : Dataset  Training Data
+Lion  40 
+Elephant 30
+Giraffe  30
+
+Color, paws, height, strength, food, teeth, etc. : Lion
+inputs/ features       : output/label
+
+Training phase
+algorithms(parameters/hyperparameters)
+learned 
+Trained machine/model
+
+zoo 2  : Testing Data/Validation Data
+50
+input features, expect the machine to predict the output
+42
+
+40/50  : metric
+
+trained model, deployable model
+deployment
+-----------------------------------------------
+Machine Learning
+	-Supervised Learning : features, and output
+	(Prediction)
+		-Regression
+			-Simple Linear Regression
+			-Multi Linear Regression
+			-Polynomial Regression
+		-Classification
+			-Binary Classification (2 classes)
+			-Multi-Class Classification  (More than 2 classes)
+	-Unsupervised Learning : data
+		-Clustering : feature similarity
+		-Association : rule mining
+		-Recommendation 
+			-content based 
+			-collaborative filtering based
+			-hybrid
+		-Anomaly Detection
+		-Dimensionality Reduction
+
+	-Semi-Supervised Learning
+	-Reinforcement Learning
+
+
+Encoding
+
+sklearn
+Linear Regression
+class 
+
+
+3-4 algorithms
+Geometric Intuition
+Mathematical Understanding
+Python: sklearn 
+
+Case study
+
+Data Processing
+Feature Engineering: Feature Extraction
+Data Visualization/EDA
+ML Algorithms
+Predict the answer
+
+
+
+
+
+y=mx+c
+m?
+c?
+
+
+
+y=mx+c
+
+m=
+
+
+
+Linear Regression
+-sklearn
+(OLS): Ordinary Least Squares Method
+
+-Gradient Descent
+SGD Regressor
+
+
+MLOps
+
+
+Statistics:
+-Descriptive Stats
+	-Measures of Central Tendency: Mean, Median, mode, etc.
+	-Measures of Dispersion: variance, std dev, range, Quantiles, Percentiles, Quartiles, IQR, etc.
+	-Probability Theory
+	-Probability Distributions: Normal Distribution, Binomial Distribution, etc.
+-Inferential Stats
+	-Sample vs Population
+	-Sampling Techniques
+	-Hypothesis Testing
+		-Different types of tests
+		-ANOVA
+
+
+
+
+
+
+Classification
+KNN Classifier
+regex
+
+re  : regular expression
+
+
+
+
+
+
+
+
